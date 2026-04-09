@@ -1,0 +1,17 @@
+# System-managed bundled skills
+.system/
+
+# Python cache/build noise from skill helper scripts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor and OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
