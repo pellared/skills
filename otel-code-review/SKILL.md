@@ -1,6 +1,7 @@
 ---
 name: otel-code-review
 description: Review code changes like an OpenTelemetry maintainer, with emphasis on spec compliance, semantic conventions, compatibility, tests, performance, and security. Use when the user wants an code review for an OpenTelemetry repository on a patch, PR, or local diff.
+license: MIT
 ---
 
 # OTel Code Review

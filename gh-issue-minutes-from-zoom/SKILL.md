@@ -1,6 +1,7 @@
 ---
 name: gh-issue-minutes-from-zoom
 description: Draft or post GitHub issue comments with meeting minutes from a Zoom transcript file using gh. Use when the user wants recurring SIG-style meeting notes added to an issue such as open-telemetry/opentelemetry-go#6648 from a .vtt transcript or cleaned text transcript.
+license: MIT
 ---
 
 # GH Issue Minutes From Zoom

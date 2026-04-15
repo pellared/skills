@@ -1,6 +1,7 @@
 ---
 name: update-skills-readme
 description: Update the top-level skills README by listing all user-facing skill folders in this repository and excluding .system. Use when the root README.md should be created, refreshed, or kept in sync as skills are added, removed, or renamed.
+license: MIT
 ---
 
 # Update Skills README
